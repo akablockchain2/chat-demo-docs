@@ -131,6 +131,7 @@ This document outlines the design and implementation of a microservices architec
 ## Repository
 
 The full implementation and detailed configurations are available in the following repositories:
+- [instance](http://a48ccd0efc283442290669d6a5325a17-779552031.us-east-1.elb.amazonaws.com/)
 - [chat-demo-infrastructure](https://github.com/akablockchain2/chat-demo-infrastructure)
 - [chat-demo-backend](https://github.com/akablockchain2/chat-demo-backend)
 - [chat-demo-frontend](https://github.com/akablockchain2/chat-demo-frontend)
