@@ -1,6 +1,6 @@
 # Intro
 
-I’ve developed a fully working POC for a scalable platform. Working instance is here. (Link )
+I’ve developed a fully working POC for a scalable platform. Working instance is here - [instance](http://a48ccd0efc283442290669d6a5325a17-779552031.us-east-1.elb.amazonaws.com/)
 
 # Microservices Architecture Platform
 
