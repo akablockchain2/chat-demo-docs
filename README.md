@@ -49,7 +49,7 @@ This document outlines the design and implementation of a microservices architec
 
 ## 4. Microservices Deployment Automation
 
-**Tools:** Helm, Kubernetes
+**Tools:** Helm, Kubernetes, Github actions
 
 **Rationale:**
 - Helm simplifies deployment management through templated Kubernetes manifests.
@@ -59,7 +59,7 @@ This document outlines the design and implementation of a microservices architec
 - Define Helm chart values for backend and frontend services.
 - Include configuration for connecting to the AuroraDB instance.
 - Use Helm commands to install and upgrade the application.
-
+  
 ## 5. Release Lifecycle
 
 **Phases:**
